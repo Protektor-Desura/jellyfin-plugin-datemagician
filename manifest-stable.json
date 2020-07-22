@@ -4,7 +4,7 @@
         "guid": "e7dc60c5-6ab4-415a-8d79-2ccb93fb5bc5",
         "name": "DateMagician",
         "description": "This plugin sets the 'AddedDate'of a TV Episode to its Premier Date. ",
-        "owner": "jellyfin",
+        "owner": "protektor",
         "overview": "Change the Premier Date of TV Shows",
         "versions": [
             {
