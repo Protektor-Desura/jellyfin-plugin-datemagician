@@ -23,5 +23,5 @@ dotnet publish --configuration Release --output bin
 
 Jellyfin 10.6.0 added the ability to have multiple repositories. So you can you can easily install and keep this plugin up to date on your server. Go to the web admin interface, select plugins on the left, then repositories at the top and click the + to create a new one using the information below.
 
-Name:DateMagician
+Name:DateMagician<br>
 URL:https://raw.githubusercontent.com/Protektor-Desura/jellyfin-plugin-datemagician/master/manifest-stable.json
