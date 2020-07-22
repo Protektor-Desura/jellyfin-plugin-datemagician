@@ -3,7 +3,7 @@
         "category": "General",
         "guid": "e7dc60c5-6ab4-415a-8d79-2ccb93fb5bc5",
         "name": "DateMagician",
-        "description": "This plugin sets the 'AddedDate'of a TV Episode to its Premier Date. ",
+        "description": "This plugin sets the 'AddedDate'of a TV Episode to its Premier Date.",
         "owner": "protektor",
         "overview": "Change the Premier Date of TV Shows",
         "versions": [
@@ -11,7 +11,7 @@
                 "checksum": "148a61deab0cb0ceabd4128ad3a82088",
                 "changelog": "bug fixes and improvements",
                 "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/Protektor-Desura/jellyfin-plugin-datemagician/releases/download/1.0.0/jellyfin-plugin-datemagician.dll",
+                "sourceUrl": "https://github.com/Protektor-Desura/jellyfin-plugin-datemagician/releases/download/1.0.0/DateMagician-1.0.zip",
                 "timestamp": "2020-07-07 03:19:00",
                 "version": "1.0.0.0"
             }
