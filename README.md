@@ -18,3 +18,10 @@ Jellyfin DateMagician plugin is a plugin built with .NET. </p>
 dotnet publish --configuration Release --output bin
 ```
 4. Place the resulting .dll file in a folder called ```plugins/``` under  the program data directory or inside the portable install directory
+
+# NEW PLUGIN REPOSITORY SUPPORT
+
+Jellyfin 10.6.0 added the ability to have multiple repositories. So you can you can easily install and keep this plugin up to date on your server. Go to the web admin interface, select plugins on the left, then repositories at the top and click the + to create a new one using the information below.
+
+Name:DateMagician
+URL:https://raw.githubusercontent.com/Protektor-Desura/jellyfin-plugin-datemagician/master/manifest-stable.json
